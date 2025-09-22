@@ -1,12 +1,14 @@
 ## About me
 
-Technical Customer Success & Implementation specialist with 10+ years of experience at the intersection of customers, product and process.  
-Focused on **automation, API integrations, and Excel/Python tooling** in HR- and hospitality SaaS.
+Technical Customer Success & Implementation Specialist with 10+ years of experience at the intersection of customer needs, product logic, and operational processes.  
+Focus areas: **automation, API integrations, and lightweight tools using Excel, VBA, and Python** – primarily in HR and hospitality SaaS environments.
 
 ## What I build
-- Small automation tools (Python, Tkinter, Excel/VBA) that save hours of manual work
-- Data quality checks, import/export reconciliation, and ETL converters
-- Proof-of-concepts turned into working prototypes for HR/payroll processes
+
+- Lean automation tools (Python, Tkinter, Excel/VBA) to eliminate repetitive tasks
+- Scripts for data validation, import/export matching, and simple ETL conversion
+- Proof-of-concepts that evolve into functional internal tools for HR and payroll
 
 ## Tech toolbox
-Python · OpenPyXL · Pandas · Tkinter · Excel/VBA · REST APIs · Automation
+
+Python · Pandas · OpenPyXL · Tkinter · Excel/VBA · REST APIs · Automation
